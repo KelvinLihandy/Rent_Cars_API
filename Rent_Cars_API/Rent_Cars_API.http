@@ -1,0 +1,6 @@
+@Rent_Cars_API_HostAddress = http://localhost:5111
+
+GET {{Rent_Cars_API_HostAddress}}/api/
+Accept: application/json
+
+###
